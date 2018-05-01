@@ -1,0 +1,10 @@
+{
+  "files": {
+    "module.json": "1835467134c94dcbccc33acd9ad99ba9a96c8bda23685972f741137eab319a04",
+    "README.md": "fafa1219f3523b88f6de740c9b3bd1095ec7d5576c7d8e1be803a8eb863af2ff",
+    "index.js": "83e905e428b4c3625723d6483d334a1f0ddadf994f3769d459e5db9fc1fc79d0"
+  },
+  "defs": {
+    "S_DESPAWN_NPC": 3
+  }
+}
