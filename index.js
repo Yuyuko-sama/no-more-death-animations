@@ -17,6 +17,7 @@ function removeAnimation(evt) {
 function NoMoreDeathAnimations(_) {
   const cmd = Command(_);
   const settings = { enabled: true };
+  require("./fix-hookonce")(_);
 
   cmd.add("deathanimations", cmdHandler, { cmd, settings });
 

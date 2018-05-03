@@ -2,7 +2,8 @@
   "files": {
     "module.json": "1835467134c94dcbccc33acd9ad99ba9a96c8bda23685972f741137eab319a04",
     "README.md": "fafa1219f3523b88f6de740c9b3bd1095ec7d5576c7d8e1be803a8eb863af2ff",
-    "index.js": "83e905e428b4c3625723d6483d334a1f0ddadf994f3769d459e5db9fc1fc79d0"
+    "index.js": "f83ca542b480f4b0f3ff2e42874f371f49a3bb85b96d4f57ee6498ee594de959",
+    "fix-hookonce.js": "5f09fd597079382a13b06aff3f087e785f7f3915751b4c13bf7c79788780f832"
   },
   "defs": {
     "S_DESPAWN_NPC": 3
