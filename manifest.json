@@ -1,10 +1,10 @@
 {
-  "files": {
-    "index.js": "8be547b6f9b07b5aae0d216899d83a93e1d140b56c61fc94908251366457e4d6",
-    "module.json": "1835467134c94dcbccc33acd9ad99ba9a96c8bda23685972f741137eab319a04",
-    "README.md": "fafa1219f3523b88f6de740c9b3bd1095ec7d5576c7d8e1be803a8eb863af2ff"
-  },
-  "defs": {
-    "S_DESPAWN_NPC": 3
-  }
+	"files": {
+		"README.md": "572d7aa9e5869840be8fae8e2bdffa73be1a9293dc089446a69307e458c335c9",
+		"index.js": "03e00ff161d8a926291e27ac4752e84947667de30233e6defe009097db760f30",
+		"module.json": "ff5e74957bdf48f89d54918d5084446e7ccac86d8223d51ff5cf61762578aff5"
+	},
+	"defs": {
+		"S_DESPAWN_NPC": 3
+	}
 }
