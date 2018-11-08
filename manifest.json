@@ -2,7 +2,7 @@
 	"files": {
 		"README.md": "572d7aa9e5869840be8fae8e2bdffa73be1a9293dc089446a69307e458c335c9",
 		"index.js": "03e00ff161d8a926291e27ac4752e84947667de30233e6defe009097db760f30",
-		"module.json": "ff5e74957bdf48f89d54918d5084446e7ccac86d8223d51ff5cf61762578aff5"
+		"module.json": "0e9989f60943a60458c5b2d0befff3fb3a139921602b3887c6762d5ba9dc7909"
 	},
 	"defs": {
 		"S_DESPAWN_NPC": 3
